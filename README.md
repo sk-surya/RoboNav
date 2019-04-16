@@ -1,5 +1,5 @@
 # RoboNav
-Implementing various ML algorithms on a Kaggle dataset.
+Designing a classifier for a Kaggle dataset
 
 https://www.kaggle.com/c/career-con-2019/overview
 
